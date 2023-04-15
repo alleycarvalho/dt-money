@@ -64,10 +64,10 @@ http://localhost:5173/
 
 ### Funcionalidades:
 
-- Adicionar um novo projeto com tempo determinado;
-- Iniciar contagem regressiva no tempo do projeto;
-- Interromper projeto;
-- Visualizar histórico de projetos;
+- Adicionar nova transação de entrada;
+- Adicionar nova transação de saída;
+- Visualizar total de entradas, saídas e saldo final;
+- Filtrar registros;
 
 ---
 
